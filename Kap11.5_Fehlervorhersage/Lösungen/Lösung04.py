@@ -1,0 +1,1 @@
+df.replace(to_replace={ b'false':0, b'true':1 },  inplace=True)

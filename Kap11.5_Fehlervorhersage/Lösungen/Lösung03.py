@@ -1,0 +1,1 @@
+df3.rename(columns = { 'T': 't', 'defect': 'defects' }, inplace=True)

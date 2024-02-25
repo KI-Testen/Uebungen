@@ -1,0 +1,2 @@
+X = df.drop(columns='defects')  # Speichert einen DataFrame, aus dem die Spalte (defects) mit den Ausgabewerten entfernt wurde in X
+y = df['defects']               # Speichert die Spalte (defects) mit den Ausgabewereten in y

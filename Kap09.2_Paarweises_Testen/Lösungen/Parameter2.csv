@@ -1,0 +1,8 @@
+Strassentyp, Autobahn, Landstrasse, Stadtstrasse, Feldweg, Fahrradweg
+Oberflaeche, Teer, Beton, Glatteis, Schotter, Kopfsteinpflaster
+Wetter,      Sonne, Regen, Schnee, Hagel
+Verkehr,     voll, leer
+Sicht,       neblig, klar
+Tempomat,    V2.1, V3.4
+SH-Ass,      V0.1
+SW-Ass,      V2.3, V2.3.3, 3.0, 3.1, 3.1.1, 3.5
