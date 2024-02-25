@@ -1,4 +1,6 @@
 # Praktische Übungen zum Buch "KI-Testen"
+<img style="float:right;width:30%;max-width:250px;padding:10px" src="https://dpunkt.de/wp-content/uploads/2024/01/13867.jpg"/>
+
 Dieses Repository enthält das Begleitmaterial und praktische Übungen zum Buch "[**Basiswissen KI-Testen** - Qualität von und mit KI-basierten Systemen](https://dpunkt.de/produkt/basiswissen-ki-testen/)" aus dem **dpunkt.Verlag**, ISBN 978-3-86490-947-4.
 
 Um die Übungen selbst auf *deinem eigenen Laptop oder PC* durchführen zu können, benötigst Du folgendes:
