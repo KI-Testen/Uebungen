@@ -43,12 +43,12 @@ und schon kann's losgehen!
 
 # Lizenzbedingungen
 
-**der Inhalte *dieses* GitHub-Repos (Notebooks, Grafiken, Code...)**
+**der Inhalte *dieses* GitHub-Repos (Notebooks, Grafiken, Code...):**
 
-<img src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-logo" width="24px" />&nbsp;<img src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-by" width="24px" />&nbsp;<img src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-nc" width="24px" />&nbsp;<img src="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-sa" width="24px" /><br/>
+![cc-license](Einstieg_Vorbereitung/cc-by-nc-sa.svg)<br/>
 CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**der genutzen Werkzeuge und Daten**
+**der genutzen Werkzeuge und Daten:**
 
 - pyhton: PSF License (https://docs.python.org/3/license.html - GPL-kompatibel)
 - jupyterlab: BSD License (https://jupyterlab.readthedocs.io/en/latest/api/index.html?highlight=license#md:license)
@@ -58,4 +58,4 @@ CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - shap: Copyright &copy; 2018, Scott Lundberg [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 - pict: Copyright &copy; Microsoft Corporation [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 - chatGPT: OpenAI [Terms of Use](https://openai.com/policies/terms-of-use)
-- OpenML(http://creativecommons.org/licenses/by/4.0/; https://opensource.org/licenses/BSD-3-Clause)
+- OpenML (http://creativecommons.org/licenses/by/4.0/; https://opensource.org/licenses/BSD-3-Clause)
