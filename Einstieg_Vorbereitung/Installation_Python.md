@@ -1,9 +1,9 @@
 # Python installieren
-Python ist eine leicht zu erlernende Skriptsprache, die wir sehr häufig in den [praktischen Übungen](Link darauf?) zu unserem Buch verwenden. Wenn du auf deinem Laptop oder PC keine Software installieren darfst oder möchtest, weil dies zum Beispiel ein Firmen-Laptop oder ein ausgeliehener PC eines Bekannten ist, kannst Du unsere [Übungen auch ohne installiertes Python nutzen](...).
+Python ist eine leicht zu erlernende Skriptsprache, die wir sehr häufig in den praktischen Übungen zu unserem Buch verwenden. Wenn du auf deinem Laptop oder PC keine Software installieren darfst oder möchtest, weil dies zum Beispiel ein Firmen-Laptop oder ein ausgeliehener PC eines Bekannten ist, kannst du unsere [Übungen auch ohne installiertes Python nutzen](...).
 
-Wenn du dir nicht sicher bist, ob python schon installiert ist, kannst du in Windows im entpackten Verzeichnis unseres GitHub Repositories das Befehlsskript `01_python_version.cmd` per Doppel-Click starten. Es zeigt dir entweder dieinstallierte python Version an, oder gibt aus, dass python nicht als Befehl gefunden wurde. Wir empfehlen die Version 3.11 oder höher.
+Wenn du dir nicht sicher bist, ob ython schon installiert ist, kannst du in Windows im entpackten Verzeichnis unseres GitHub Repositories das Befehlsskript `01_python_version.cmd` per Doppelklick starten. Es zeigt dir entweder dieinstallierte Python-Version an, oder gibt aus, dass Python nicht als Befehl gefunden wurde. Wir empfehlen die Version 3.11 oder höher.
 
-Die **unterstützten Betriebssysteme** findest Du auf der [Python Homepage](https://www.python.org/):
+Die **unterstützten Betriebssysteme** findest du auf der [Python-Homepage](https://www.python.org/):
 * Windows
 * macOS
 * Linux/UNIX
